@@ -1,0 +1,52 @@
+{
+  "favorite_movies": [
+    {
+      "movie_name": "The Dark Knight",
+      "year_released": 2008,
+      "rating": "PG-13",
+      "length": "152 minutes",
+      "cast": [
+        {
+          "actor": "Christian Bale",
+          "character": "Bruce Wayne / Batman"
+        },
+        {
+          "actor": "Heath Ledger",
+          "character": "Joker"
+        }
+      ]
+    },
+    {
+      "movie_name": "Inception",
+      "year_released": 2010,
+      "rating": "PG-13",
+      "length": "148 minutes",
+      "cast": [
+        {
+          "actor": "Leonardo DiCaprio",
+          "character": "Dom Cobb"
+        },
+        {
+          "actor": "Joseph Gordon-Levitt",
+          "character": "Arthur"
+        }
+      ]
+    },
+    {
+      "movie_name": "Interstellar",
+      "year_released": 2014,
+      "rating": "PG-13",
+      "length": "169 minutes",
+      "cast": [
+        {
+          "actor": "Matthew McConaughey",
+          "character": "Cooper"
+        },
+        {
+          "actor": "Anne Hathaway",
+          "character": "Dr. Amelia Brand"
+        }
+      ]
+    }
+  ]
+}
